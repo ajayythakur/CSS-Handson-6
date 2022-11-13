@@ -1,0 +1,25 @@
+.grid{
+    display: grid;
+    height: 70px;
+    width: 100%;
+    background-color: grey;
+}
+.item{
+    color: white;
+
+}
+
+.txt1{
+    text-align: right;
+    margin-left: 850px;
+}
+.txt2{
+    margin-left: 60px;
+}
+.txt3{
+    margin-left: 60px;
+}
+.img{
+    margin-left:1200px;
+    margin-top: -35px;
+}
